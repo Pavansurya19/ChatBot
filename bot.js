@@ -8,7 +8,6 @@ import makeWASocket, {
   useMultiFileAuthState,
   DisconnectReason,
   fetchLatestBaileysVersion,
-  makeInMemoryStore,
   Browsers
 } from '@whiskeysockets/baileys';
 import qrcode from 'qrcode-terminal';
